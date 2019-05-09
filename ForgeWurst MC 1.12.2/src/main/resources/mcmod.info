@@ -1,14 +1,14 @@
 [
 {
-  "modid": "forgewurst",
-  "name": "ForgeWurst",
-  "description": "Wurst Client for Minecraft Forge.",
+  "modid": "prettycolors",
+  "name": "prettycolors",
+  "description": "it does colors",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "https://forge.wurstclient.net/",
+  "url": "https://colors.net/",
   "updateJSON": "https://forge.wurstclient.net/api/v1/update.json",
-  "authorList": ["Alexander01998"],
-  "credits": "Copyright (C) 2017 - 2019 Wurst-Imperium. All rights reserved.",
+  "authorList": ["ipod"],
+  "credits": "copynight copyright",
   "logoFile": "assets/forgewurst/wurst-logo.png",
   "screenshots": [],
   "dependencies": []
